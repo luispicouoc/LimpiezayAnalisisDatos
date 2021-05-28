@@ -8,5 +8,5 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y Ci
 Luis Alberto Pico
 
 ## Ficheros
-src/Practica2_LimpiezaYAnalisisDatos.ipynb : Notebook que contiene el código en Python que implementa el proyecto analítico.    
-Practica2_LimpiezaYAnalisisDatos.pdf : Contiene las respuestas a las preguntas de la práctica.    
+* src/Practica2_LimpiezaYAnalisisDatos.ipynb : Notebook que contiene el código en Python que implementa el proyecto analítico.    
+* Practica2_LimpiezaYAnalisisDatos.pdf : Contiene las respuestas a las preguntas de la práctica.    
