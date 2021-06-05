@@ -12,3 +12,6 @@ Luis Alberto Pico
 * files/: Carpeta que contiene los archivos originales que se usaron para este proyecto, como también los archivos depurados obtenidos en los procesos de limpieza.    
 * Practica2_LimpiezaYAnalisisDatos_Titanic.html : Contiene las respuestas a las preguntas de la práctica en formato html, es recomendable abrir el documento como html puesto que mantiene los formatos originales de la implementación realizada en Python.    
 * Practica2_LimpiezaYAnalisisDatos_Titanic.pdf : Contiene las respuestas a las preguntas de la práctica en formato pdf.    
+
+## Licencia
+El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usado para mostrar este contenido esta licenciado bajo la MIT license.
