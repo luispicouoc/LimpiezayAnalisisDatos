@@ -8,5 +8,7 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y Ci
 Luis Alberto Pico
 
 ## Ficheros
-* src/Practica2_LimpiezaYAnalisisDatos.ipynb : Notebook que contiene el código en Python que implementa el proyecto analítico.    
-* Practica2_LimpiezaYAnalisisDatos.pdf : Contiene las respuestas a las preguntas de la práctica.    
+* src/Practica2_LimpiezaYAnalisisDatos_Titanic.ipynb : Notebook que contiene el código en Python que implementa el proyecto analítico.    
+* files/: Carpeta que contiene los archivos originales que se usaron para este proyecto, como también los archivos depurados obtenidos en los procesos de limpieza.    
+* Practica2_LimpiezaYAnalisisDatos_Titanic.html : Contiene las respuestas a las preguntas de la práctica en formato html, es recomendable abrir el documento como html puesto que mantiene los formatos originales de la implementación realizada en Python.    
+* Practica2_LimpiezaYAnalisisDatos_Titanic.pdf : Contiene las respuestas a las preguntas de la práctica en formato pdf.    
